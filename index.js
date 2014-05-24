@@ -1,10 +1,12 @@
 'use strict';
 
-var adapter = require('memdown');
-adapter.adapterName = 'memory';
-adapter.valid = function () {
+var adapter = require('pouchdb-abstract-adapter');
+
+var leveldown = require('memdown');
+leveldown.adapterName = 'memory';
+leveldown.valid = function () {
   return true;
 }
-adapter.usePrefix = false;
+leveldown.usePrefix = false;
 
-module.exports = adapter;
+module.exports = adapter(leveldown);
