@@ -1,7 +1,7 @@
 pouchdb-memory
 =======
 
-A purely in-memory PouchDB, as a custom build. Useful for things like quick unit tests where you don't want to write any data to disk.
+A purely in-memory PouchDB, as a custom build. Useful for things like quick unit tests, where you don't want to write any data to disk.
 
 Install
 ---
