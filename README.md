@@ -1,7 +1,7 @@
 pouchdb-memory
 =======
 
-PouchDB custom build that only uses an in-memory database.
+A purely in-memory PouchDB, as a custom build.
 
 Usage
 ---
