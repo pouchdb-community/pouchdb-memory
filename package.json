@@ -1,32 +1,5 @@
 {
   "name": "pouchdb-memory",
-<<<<<<< 77c7206e993c1ac95cf54546aadb488402777e8d
-  "version": "0.1.0",
-  "description": "In-Memory adapter for PouchDB, also a LevelDOWN-compliant database object.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pouchdb/memory-adapter"
-  },
-  "keywords": [
-    "memory",
-    "pouchdb",
-    "couchdb",
-    "adapter"
-  ],
-  "author": "Nolan Lawson <nolan.lawson@gmail.com>",
-  "license": "Apache 2",
-  "bugs": {
-    "url": "https://github.com/pouchdb/memory-adapter/issues"
-  },
-  "homepage": "https://github.com/pouchdb/memory-adapter",
-  "dependencies": {
-    "memdown": "^0.10.0"
-  }
-=======
   "version": "1.0.0",
   "description": "A purely in-memory PouchDB, as a custom build",
   "main": "index.js",
@@ -44,5 +17,4 @@
     "pouchdb-replication": "^5.4.0"
   },
   "files": []
->>>>>>> initial commit
 }
