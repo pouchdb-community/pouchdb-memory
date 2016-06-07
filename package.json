@@ -16,5 +16,17 @@
     "pouchdb-mapreduce": "^5.4.0",
     "pouchdb-replication": "^5.4.0"
   },
-  "files": []
+  "files": [],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolanlawson/pouchdb-memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nolanlawson/pouchdb-memory/issues"
+  },
+  "homepage": "https://github.com/nolanlawson/pouchdb-memory#readme"
 }
