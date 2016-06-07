@@ -3,6 +3,19 @@ pouchdb-memory
 
 PouchDB custom build that only uses an in-memory database.
 
+Usage
+---
+
+    npm install pouchdb-memory
+
+```js
+var PouchDB = require('pouchdb-memory');
+var db = new PouchDB('mydb');
+```
+
+Description
+----
+
 This build combines the following plugins:
 
 - `pouchdb-adapter-memory`
