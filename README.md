@@ -23,4 +23,6 @@ This build combines the following plugins:
 - `pouchdb-replication`
 - `pouchdb-find`
 
-It should be useful for things like quick unit tests. Feel free to add additional plugins on top of it, or just build your own – the source code is tiny!
+It should be useful for things like quick unit tests.
+
+Feel free to add additional plugins on top of it, or just build your own – the source code is tiny!
