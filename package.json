@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-memory",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A purely in-memory PouchDB, as a custom build",
   "main": "index.js",
   "keywords": [
