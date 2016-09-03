@@ -22,6 +22,7 @@ Description
 This build combines the following plugins:
 
 - `pouchdb-adapter-memory`
+- `pouchdb-adapter-http`
 - `pouchdb-mapreduce`
 - `pouchdb-replication`
 - `pouchdb-find`
