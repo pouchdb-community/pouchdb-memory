@@ -15,7 +15,7 @@
     "pouchdb-core": "^5.4.0",
     "pouchdb-find": "^0.10.0",
     "pouchdb-mapreduce": "^5.4.0",
-    "pouchdb-replication": "^5.4.0"
+    "pouchdb-replication": "^6.0.3"
   },
   "files": [],
   "devDependencies": {},
