@@ -10,7 +10,7 @@
   "author": "Nolan Lawson <nolan@nolanlawson.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "pouchdb-adapter-http": "^6.0.3",
+    "pouchdb-adapter-http": "^6.0.7",
     "pouchdb-adapter-memory": "^6.0.3",
     "pouchdb-core": "^6.0.3",
     "pouchdb-find": "^0.10.0",
